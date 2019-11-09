@@ -34,7 +34,7 @@ const STORE = {
       },
   
       {
-        question: "How many starts are in our solar system?",
+        question: "How many stars are there in our solar system?",
         options: [
           "1", 
           "2", 
